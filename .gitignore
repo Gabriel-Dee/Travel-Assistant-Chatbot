@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+*.sqlite
+data/*.sqlite
+.env
+data/travel2.sqlite
+travel2.backup.sqlite
+travel2.sqlite
+data/travel2.sqlite
+travel2.backup.sqlite
